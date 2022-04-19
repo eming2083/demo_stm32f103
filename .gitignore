@@ -2,3 +2,5 @@
 /keil/*.bak
 /keil/*.bak
 /keil/output/*
+/keil/*.eming
+/keil/*.yy
